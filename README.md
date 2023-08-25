@@ -17,9 +17,3 @@ Now extract the contents and drag them into your resources, and add the followin
 ```bash
   start ExplodeOnImpact
 ```
-
-
-    
-## Showcase
-
-![](https://github.com/oyuh/ExplodeOnImpact/showcase.gif)
